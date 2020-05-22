@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josel\\OneDrive\\Ambiente de Trabalho\\LESI\\LPII\\Trabalho 1\\Trabalho\\Trabalho.csproj",
+      "projectUniqueName": "C:\\Users\\josel\\OneDrive\\Ambiente de Trabalho\\LESI\\LPII\\Trabalho 1\\git.16960_LP2-188585_LP2\\Trabalho\\Trabalho.csproj",
       "projectName": "Trabalho",
-      "projectPath": "C:\\Users\\josel\\OneDrive\\Ambiente de Trabalho\\LESI\\LPII\\Trabalho 1\\Trabalho\\Trabalho.csproj",
+      "projectPath": "C:\\Users\\josel\\OneDrive\\Ambiente de Trabalho\\LESI\\LPII\\Trabalho 1\\git.16960_LP2-188585_LP2\\Trabalho\\Trabalho.csproj",
       "packagesPath": "C:\\Users\\josel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josel\\OneDrive\\Ambiente de Trabalho\\LESI\\LPII\\Trabalho 1\\Trabalho\\obj\\",
+      "outputPath": "C:\\Users\\josel\\OneDrive\\Ambiente de Trabalho\\LESI\\LPII\\Trabalho 1\\git.16960_LP2-188585_LP2\\Trabalho\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\josel\\AppData\\Roaming\\NuGet\\NuGet.Config",

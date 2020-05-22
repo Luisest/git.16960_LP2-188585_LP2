@@ -9,3 +9,8 @@ C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\LPII\Trabalho 1\Trabalho\bin\D
 C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\LPII\Trabalho 1\Trabalho\bin\Debug\netcoreapp3.1\Trabalho.pdb
 C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\LPII\Trabalho 1\Trabalho\obj\Debug\netcoreapp3.1\Trabalho.dll
 C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\LPII\Trabalho 1\Trabalho\obj\Debug\netcoreapp3.1\Trabalho.pdb
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\LPII\Trabalho 1\git.16960_LP2-188585_LP2\Trabalho\obj\Debug\netcoreapp3.1\Trabalho.csprojAssemblyReference.cache
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\LPII\Trabalho 1\git.16960_LP2-188585_LP2\Trabalho\obj\Debug\netcoreapp3.1\Trabalho.AssemblyInfoInputs.cache
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\LPII\Trabalho 1\git.16960_LP2-188585_LP2\Trabalho\obj\Debug\netcoreapp3.1\Trabalho.AssemblyInfo.cs
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\LPII\Trabalho 1\git.16960_LP2-188585_LP2\Trabalho\obj\Debug\netcoreapp3.1\Trabalho.dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\LPII\Trabalho 1\git.16960_LP2-188585_LP2\Trabalho\obj\Debug\netcoreapp3.1\Trabalho.pdb
