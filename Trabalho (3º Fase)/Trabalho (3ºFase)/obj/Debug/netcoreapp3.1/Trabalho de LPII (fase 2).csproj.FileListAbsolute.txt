@@ -1,0 +1,33 @@
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\LPII\Trabalho LPII fase 2\Trabalho de LPII (fase 2)\bin\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).exe
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\LPII\Trabalho LPII fase 2\Trabalho de LPII (fase 2)\bin\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).deps.json
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\LPII\Trabalho LPII fase 2\Trabalho de LPII (fase 2)\bin\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).runtimeconfig.json
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\LPII\Trabalho LPII fase 2\Trabalho de LPII (fase 2)\bin\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).runtimeconfig.dev.json
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\LPII\Trabalho LPII fase 2\Trabalho de LPII (fase 2)\bin\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\LPII\Trabalho LPII fase 2\Trabalho de LPII (fase 2)\bin\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).pdb
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\LPII\Trabalho LPII fase 2\Trabalho de LPII (fase 2)\obj\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).csprojAssemblyReference.cache
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\LPII\Trabalho LPII fase 2\Trabalho de LPII (fase 2)\obj\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).AssemblyInfoInputs.cache
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\LPII\Trabalho LPII fase 2\Trabalho de LPII (fase 2)\obj\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).AssemblyInfo.cs
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\LPII\Trabalho LPII fase 2\Trabalho de LPII (fase 2)\obj\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\LESI\LPII\Trabalho LPII fase 2\Trabalho de LPII (fase 2)\obj\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).pdb
+C:\Users\josel\OneDrive\Ambiente de Trabalho\Trabalho LPII fase 2\Trabalho de LPII (fase 2)\bin\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).exe
+C:\Users\josel\OneDrive\Ambiente de Trabalho\Trabalho LPII fase 2\Trabalho de LPII (fase 2)\bin\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).deps.json
+C:\Users\josel\OneDrive\Ambiente de Trabalho\Trabalho LPII fase 2\Trabalho de LPII (fase 2)\bin\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).runtimeconfig.json
+C:\Users\josel\OneDrive\Ambiente de Trabalho\Trabalho LPII fase 2\Trabalho de LPII (fase 2)\bin\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).runtimeconfig.dev.json
+C:\Users\josel\OneDrive\Ambiente de Trabalho\Trabalho LPII fase 2\Trabalho de LPII (fase 2)\bin\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\Trabalho LPII fase 2\Trabalho de LPII (fase 2)\bin\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).pdb
+C:\Users\josel\OneDrive\Ambiente de Trabalho\Trabalho LPII fase 2\Trabalho de LPII (fase 2)\obj\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).csprojAssemblyReference.cache
+C:\Users\josel\OneDrive\Ambiente de Trabalho\Trabalho LPII fase 2\Trabalho de LPII (fase 2)\obj\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).AssemblyInfoInputs.cache
+C:\Users\josel\OneDrive\Ambiente de Trabalho\Trabalho LPII fase 2\Trabalho de LPII (fase 2)\obj\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).AssemblyInfo.cs
+C:\Users\josel\OneDrive\Ambiente de Trabalho\Trabalho LPII fase 2\Trabalho de LPII (fase 2)\obj\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\Trabalho LPII fase 2\Trabalho de LPII (fase 2)\obj\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).pdb
+C:\Users\josel\OneDrive\Ambiente de Trabalho\Trabalho LPII (Fase 3)16960-18858\Trabalho (3ºFase)\bin\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).exe
+C:\Users\josel\OneDrive\Ambiente de Trabalho\Trabalho LPII (Fase 3)16960-18858\Trabalho (3ºFase)\bin\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).deps.json
+C:\Users\josel\OneDrive\Ambiente de Trabalho\Trabalho LPII (Fase 3)16960-18858\Trabalho (3ºFase)\bin\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).runtimeconfig.json
+C:\Users\josel\OneDrive\Ambiente de Trabalho\Trabalho LPII (Fase 3)16960-18858\Trabalho (3ºFase)\bin\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).runtimeconfig.dev.json
+C:\Users\josel\OneDrive\Ambiente de Trabalho\Trabalho LPII (Fase 3)16960-18858\Trabalho (3ºFase)\bin\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\Trabalho LPII (Fase 3)16960-18858\Trabalho (3ºFase)\bin\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).pdb
+C:\Users\josel\OneDrive\Ambiente de Trabalho\Trabalho LPII (Fase 3)16960-18858\Trabalho (3ºFase)\obj\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).csprojAssemblyReference.cache
+C:\Users\josel\OneDrive\Ambiente de Trabalho\Trabalho LPII (Fase 3)16960-18858\Trabalho (3ºFase)\obj\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).AssemblyInfoInputs.cache
+C:\Users\josel\OneDrive\Ambiente de Trabalho\Trabalho LPII (Fase 3)16960-18858\Trabalho (3ºFase)\obj\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).AssemblyInfo.cs
+C:\Users\josel\OneDrive\Ambiente de Trabalho\Trabalho LPII (Fase 3)16960-18858\Trabalho (3ºFase)\obj\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).dll
+C:\Users\josel\OneDrive\Ambiente de Trabalho\Trabalho LPII (Fase 3)16960-18858\Trabalho (3ºFase)\obj\Debug\netcoreapp3.1\Trabalho de LPII (fase 2).pdb

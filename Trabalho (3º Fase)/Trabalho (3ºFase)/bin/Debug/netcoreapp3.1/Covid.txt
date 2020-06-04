@@ -1,0 +1,1 @@
+Nome: Luis Fernando ;Género: Masculino ;Data de nascimento: 03/06/2020 00:00:00 ;Número de telemóvel: 939435791 ;Código do paciente: 2034 ;Data da consulta: 01/02/2020 00:00:00 ;Estado do paciente: Normal ;Código do médico que atendeu: 3221;

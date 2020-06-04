@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Trabalho_de_LPII__fase_3</RootNamespace>
+    <ApplicationIcon />
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Libraria">
+      <HintPath>..\Libraria\bin\Debug\netstandard2.0\Libraria.dll</HintPath>
+    </Reference>
+    <Reference Include="Livraria de Classes">
+      <HintPath>..\..\Trabalho (3ºFase)\Trabalho LP Fase 3\Livraria de Classes\bin\Debug\netstandard2.0\Livraria de Classes.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
